@@ -1,0 +1,570 @@
+OLL
+Dot
+1
+L' B L U2 F' L' B L' B2 L2 F
+L U' L2 D' R B R' D L2 U L'
+B' U B2 D F' L' F D' B2 U' B
+F U' R' F R F2 L2 B L B' U L
+R U2 R2 F R F' U2 R' F R F'
+1.png
+false
+OLL
+Dot
+2
+B' R' F' U2 F2 R B' R2 F' R2 B2
+R U B U2 B' R D L' B L D' R2
+R' F' R2 D2 L' B' D' L2 D' R' U B2
+R' U' F' U R L' U' L U R' F R
+r U r' U2 R U2 R' U2 r U' r'
+2.png
+false
+OLL
+Dot
+3
+L D R' F R D' L2 U B' U' B L
+F R2 F2 U2 F R' F' U2 F2 R2 F'
+R2 D' L F L' D R2 B L U' L' B'
+R' U2 R B U' B2 D' F R' F' D B
+y R' F2 R2 U2 R' F R U2 R2 F2 R
+3.png
+false
+OLL
+Dot
+4
+B U B' R' U' R' D' L F' L' D R2
+F' D' B L' B' D F U L F' L' F
+F R U R' F' L2 D' R B' R' D L2
+B' U R' U R U R B' R' B U2 B
+y' R' F2 R2 U2 R' F' R U2 R2 F2 R
+4.png
+false
+OLL
+Dot
+17
+R B2 U2 B' U' L B U' B' L' B' R'
+R' F' R B2 D L' D' B2 R' U F R
+L R' F' R' F' R F L' R2 B' R' B
+L F L' B2 D' R D B2 L U' F' L'
+y2 R U R' U R' F R F' U2 R' F R F'
+17.png
+false
+OLL
+Dot
+18
+L F' D' L D' B2 L' D2 F2 R' F' L'
+F R B U2 B' U2 B U2 B' R' F'
+R U B U' L U' L' B' R' F' U F
+L R2 D F D L R' D' B' D' L2 R'
+y R U2 R2 F R F' U2 M' U R U' r'
+18.png
+false
+OLL
+Dot
+19
+L' B' R' U2 R U' B L F U2 F'
+R B U2 B' U2 F' U' L' U L F R'
+L' B' U' L F2 D R D' F2 L' B L
+R' U F R' F' R' L' D B' D' R' L
+r U R U R' U' r R2 F R F'
+19.png
+false
+OLL
+Dot
+20
+R L F L2 U2 L2 D2 R2 D2 F' R' L'
+R2 F' B U2 L' F2 B2 R' D2 F' B R2
+B F R B2 D2 F2 U2 F2 D2 R' B' F'
+F2 U2 R L' B R2 L2 F D2 F2 R L'
+r' R U R U R' U' r2 R2 U R U' r'
+20.png
+false
+OLL
+OCLL
+21
+F' U2 F U F' U' F U F' U F
+B2 L2 F' L' F L' B2 U2 R B' R' B
+B' R2 F2 D2 F' D2 F' R2 B2 U2 B'
+B' L' U' B2 U2 B2 U' B2 U' B2 L B
+y R U R' U R U' R' U R U2 R'
+21.png
+false
+OLL
+OCLL
+22
+F U R' F2 D' L F L' F2 D R F2
+F' L2 B2 D R2 U' L2 F2 U R2 D' F
+L' B2 R2 D F2 U' B2 L2 U F2 D' L
+B' U2 B U2 B L' B R B R' B L
+R U2 R2 U' R2 U' R2 U2 R
+22.png
+false
+OLL
+OCLL
+23
+L' U2 R U2 L2 U2 R' U2 L F2 L2 F2
+R B U B2 R2 D' R' D R' B U' R'
+R' U2 L U2 R2 U2 L' U2 R B2 R2 B2
+F L' U2 L U2 L F L' F2 R U2 R'
+R2 D' R U2 R' D R U2 R
+23.png
+false
+OLL
+OCLL
+24
+F2 B D' B' D F D' B D F B'
+R2 L D' L' D R D' L D R L'
+B U' B' U' L U' B U' B' U2 L'
+B R2 B R F2 R' B' R F2 R B'
+r U R' U' r' F R F'
+24.png
+false
+OLL
+OCLL
+25
+L' U' L U B U B' L' B U' B' L
+F D R D R' U' R D' R' U D' F'
+B' U B U2 B D F' L2 F D' B'
+L F R' F R F2 U F U' F' L'
+y' F R' F' r U R U' r'
+25.png
+false
+OLL
+OCLL
+26
+R2 U R F L2 F' R' F L2 F' U' R2
+F U F2 U' F2 U' B2 D2 F2 D2 F B2
+B U B2 U' B2 U' F2 D2 B2 D2 B F2
+L2 R F' R F L' F' R' F L' R'
+R U2 R' U' R U' R'
+26.png
+false
+OLL
+OCLL
+27
+L R' F' R' F L F' R F L2 R
+F D R' F2 U' L' U L F2 R D' F'
+B' F R2 D' F D F' R2 B F2 U2 F
+L U B U2 B D F' L2 F D' B2 L'
+R U R' U R U2 R'
+27.png
+false
+OLL
+Line Shapes
+51
+L U2 L2 B2 U' B U L U B' U' B2
+L U2 L' U2 L' U' B U L U' B'
+B' U2 B2 L' D L D F2 D' F2 D' B'
+B' U2 B U2 B U L' U' B' U L
+F U R U' R' U R U' R' F'
+51.png
+false
+OLL
+Line Shapes
+52
+L2 R B' L B' L' B D' B D L2 R'
+F U F R' D' F D F2 R2 U' R' F'
+R D B' U B' U' B D' R2 U2 R
+B' D' R U' R U R' D B2 U2 B'
+R U R' U R d' R U' R' F'
+52.png
+false
+OLL
+Line Shapes
+55
+B L' B' R B L2 U' L' U B' R'
+R' D R2 U' B U2 B' U R2 D' R
+R B' R' F R2 D B' D' B2 R2 F'
+L F L' U R U' R2 L F R F2 L'
+R' F R U R U' R2 F' R2 U' R' U R U R'
+55.png
+false
+OLL
+Lines Shapes
+56
+B R' U' F' U R B2 R' F R B
+F' L' B' L F L' B U' B' U B L
+F' U' L F' L' F U' F U2 F R' F' R
+L B' U' R' U B L2 B' R B L
+r U r' U R U' R' U R U' R' r U' r'
+56.png
+false
+OLL
+T Shapes
+33
+D' F2 D R' B' R D' F2 D R B R'
+L' B L' F' D' L B D B2 L2 F L'
+R U2 L' U' L B L' U L B' U2 R'
+R2 D' L2 F D F' D' L' F' L' D R2
+R U R' U' R' F R F'
+33.png
+false
+OLL
+T Shapes
+45
+R' U' F' U L2 D2 R2 B' R2 D2 L2 R
+F U R F2 L F L' U' F2 R' F2
+L' U' B L' D' B D B2 L U L
+R B' R B R2 L U' F' U' F U L'
+F R U R' U' F'
+45.png
+false
+OLL
+P Shapes
+31
+F2 R2 B F2 L U L' U' B' F2 R2 F2
+B2 D B' U B D' B R B R2 U R
+R2 L2 F' D2 F D2 L D2 R' L B' R'
+B' U B U L2 R' F' L' F L' R
+R' U' F U R U' R' F' R
+31.png
+false
+OLL
+P Shapes
+32
+L U' R B' R D2 F D2 R2 B U' L'
+L U2 L2 B L' B R B' L2 B2 R' B
+F U R2 D R D' R F2 U F2 U2 F'
+B U B D' L' D B' D' L U' D B'
+y2 S R U R' U' R' F R f' 
+32.png
+false
+OLL
+P Shapes
+43
+L' B' U' B' F2 U2 D2 B2 F2 U' D2 L
+B' U R U R' U' R' F R F' B
+F U F' U' L' U2 L U F U F'
+B2 D L' B' U F U' B F' L D' B2
+y' R' U' F' U F R
+43.png
+false
+OLL
+P Shapes
+44
+L F U' D2 F2 B2 U2 D2 F B2 U' L'
+B2 R2 L2 F R' D' R D F' R2 L2 B2
+R2 U2 D2 L' F U F' U' L U2 D2 R2
+B' U' R B' R' B' L' B' L2 U' L'
+F U R U' R' F'
+44.png
+false
+OLL
+Square Shapes
+5
+R' F L2 B' R U2 R' B L F2 R L
+R U2 R' U F2 U' L' U L2 F L' F
+R D B' L2 D' B' D B L2 B D' R'
+L' B L B D' B R B' R' B' D B'
+l' U2 L U L' U l
+5.png
+false
+OLL
+Square Shapes
+6
+R B R' F2 R F U B' U' F' R' F2
+L F2 D B R2 B' D2 F D F L'
+R B R' U2 L U L' U2 R B' R'
+F R B' R F D2 F' R2 U2 B F' L2
+r U2 R' U' R U' r'
+6.png
+false
+OLL
+Lightning Shapes
+7
+R U R' F2 L F L' U2 L' U L F
+B' U L' D2 F2 U2 R' U' F2 U D2 B'
+B D L F B2 U F' U' B2 L' D' B'
+B' R D L' D' B2 R' B2 D L D' B
+r U R' U R U2 r'
+7.png
+false
+OLL
+Lightning Shapes
+8
+F U' L D2 B2 U2 R U B2 U' D2 F
+B2 R B R2 U2 R B L F' L F L2
+B2 L2 R2 F2 R' B2 L' R2 F L' F R
+R2 B2 F2 L2 F' R2 B' F2 L B' L F
+l' U' L U' L' U2 l
+8.png
+false
+OLL
+Lightning Shapes
+11
+L' U2 L F2 R L2 B' R B R2 L2 F2
+B F' L2 U L2 U' L' U L' U' B' F
+L R' F' L F2 L' F' L F' L2 R
+B L U' L' B D F' L F D' B2
+y2 r' R2 U R' U R U2 R' U M'
+11.png
+false
+OLL
+Lightning Shapes
+12
+B U2 R L U B U' B' R' L' U2 B'
+R' L U' R2 B' R' B2 U' B' U2 L'
+B' R B2 L' B D2 L' D2 L2 B2 R'
+L F2 L2 R2 B' R' B L2 R' F2 L'
+r R2 U' R U' R' U2 R U' R r’
+12.png
+false
+OLL
+Lightning Shapes
+39
+B2 D2 F L F' L' U L' U' L D2 B2
+R U R' U' R' U' F R F' R' U R
+B U L F R U' R' U' F' L' B'
+L U F' U' F L' F' L' U L F
+y2 R U R' F' U' F U R U2 R'
+39.png
+false
+OLL
+Lightning Shapes
+40
+L R' U F U' R2 D R D' F' L' R2
+F U2 F' U F' L' U' L U F2 U F'
+B L2 D2 R F' R' D' L D' B' L
+L U F' L F L2 B' R' U2 R U B
+R' F R U R' U' F' U R
+40.png
+false
+OLL
+L Shapes
+47
+F' U' L' U L' D' L' D2 F' D' F2 L'
+R' U' F R2 B' D' R F D F2 R2 B
+R B2 R2 F R B' F' U2 B R2 B2 R2
+B U2 B2 U' B2 U' L' B' L B' U2 B
+R' U' R' F R F' R' F R F' U R
+47.png
+false
+OLL
+L Shapes
+48
+R U R' U R' F R F L F L' F
+R B' R B R2 F2 D' B L2 B' D F2
+F U F' U F' L F L B L B' L
+R' U F R2 F' R2 U2 B' R B2 U' B'
+F R U R' U' R U R' U' F'
+48.png
+false
+OLL
+L Shapes
+49
+B' L2 R' F2 L' F2 L2 R B2 L B'
+R' B' F' U2 F U2 B L R U2 L'
+L' B L2 F B2 R2 B' R2 F' B2 L'
+L' U2 L U F U2 R U2 R' U' F'
+r U' r2 U r2 U r2 U' r
+49.png
+false
+OLL
+L Shapes
+50
+F U2 F' U' L' U2 B' U2 B U L
+R B L U2 L' U B' R B' R' B R'
+B L R2 F2 R F2 L' R2 B2 R' B
+B R' U2 L F' U F L' U2 R B'
+r' U r2 U' r2 U' r2 U r'
+50.png
+false
+OLL
+L Shapes
+53
+R B' R D' R D R2 B2 U B' R'
+L' B' U' B2 U L U' B' U2 B' U2 B
+R U R' U L' R2 B' R' B L U2 R'
+R U2 R U R2 U R2 F R' F' U2 R2
+y' l' U' L U' L' U L U' L' U2 l
+53.png
+false
+OLL
+L Shapes
+54
+F U F2 L F2 U F' L2 U L2 U2 L'
+L' U L U2 F2 R' F' R2 U2 R' U F'
+R' F R' D R' D' R2 F2 U' F R
+R2 L' D2 B' D2 B D2 B R' L B2 R'
+y r U R' U R U' R' U R U2 r'
+54.png
+false
+OLL
+Fish Shapes
+9
+L' D' R B' R D' R2 D B D B' L
+F' U L U2 B L' B' U2 L2 U L F
+R B' R B R' B2 L' B' L U2 B' R'
+L F R' F D' F D F' R F2 L'
+R U R' U' R' F R2 U R' U' F'
+9.png
+false
+OLL
+Fish Shapes
+10
+B' U F R B' R' D' R' D F' B2
+L U L2 U2 B D' B' U2 B2 D B2 L
+F2 R' F' R F' L' B' U2 B2 L' B' L2
+R' F2 L2 D2 L' D2 F' R F2 L' F
+R U R' U R' F R F' R U2 R'
+10.png
+false
+OLL
+Fish Shapes
+35
+F U2 F' L F' L' B2 D2 F' D2 F2 B2
+B L' B' U' B L B' U' L' U2 L
+F R' B' R2 F B' L' D2 L F2 B2
+L' B R B2 R F L' D2 L F' L R2
+R U2 R2 F R F' R U2 R'
+35.png
+false
+OLL
+Fish Shapes
+37
+L U2 B U B' U R2 D' F D R2 L'
+R U2 R2 U' F D' F D F U F R
+L U L2 U' L' B L U L U' B'
+B2 U' B' U' L U' L' U B U2 B2
+F R' F' R U R U' R'
+37.png
+false
+OLL
+W Shapes
+36
+B2 D2 F' L B2 R' B' R2 B' L' B2 F
+R U R' U R U' R2 F R F2 U F
+L' F U' R2 U B' U' B R2 U F' L
+R' L F L2 B' R U2 R' B L F2 R
+L' U' L U' L' U L U L F' L' F
+36.png
+false
+OLL
+W Shapes
+38
+B' U' B U2 L2 U F' L F L' U' L2
+L U2 R2 D' F' D R2 B U2 B' U L'
+B L2 D F2 L D2 B R D B2 L
+R' U' R U2 B2 U L' B L B' U' B2
+R U R' U R U' R' U' R' F R F'
+38.png
+false
+OLL
+Knight Move Shapes
+13
+B' U' B R2 B' D' R' U R D B R2
+R' F' R B2 D L D' B2 R' U2 F R
+B L U L' U' B2 U' B U' B' U2 B
+R B U2 R' F2 D' L D F2 R B' R'
+F U R U' R2 F' R U R U' R'
+13.png
+false
+OLL
+Knight Move Shapes
+14
+B L U' L' B' U' B' R B R2 U2 R
+F U' B' R' F R F2 B L' U L
+F' U F R U' B U2 B2 R B R2
+R B2 U D B L B' L' U' D' B2 R'
+R' F R U R' F' R F U' F'
+14.png
+false
+OLL
+Knight Move Shapes
+15
+R B U' B' R2 D' L F L' D R
+F' L' B2 D' B U B' D B2 U' L F
+R' F' L2 D' L U L' D L2 U' F R
+B' R' F R2 D R D2 F D F2 R2 B
+R' F' R L' U' L U R' F R
+15.png
+false
+OLL
+Knight Move Shapes
+16
+R' F' L' U L U' L' F R F' L F
+B L' B' L U L2 D L' U' L D' L2
+F' U' L F2 R' F L' F' R F2 U F
+L U' D2 R2 U B U2 R2 D2 F U' L
+r U r' R U R' U' r U' r'
+16.png
+false
+OLL
+C Shapes
+34
+L' U' B L' B' D' L U L' D L2
+L U R' U' F U R U' R' F' L' R
+B U L' U' L' B' L U L2 U' L'
+F' L U L U L' U' L2 F L U' L'
+R U R2 U' R' F R U R U' F'  
+34.png
+false
+OLL
+C Shapes
+46
+L2 F2 D R' F R D' R' F' R F2 L2
+R U R B U' B' R' U F R' F'
+B U D L' D' L' U' F' L B' F L
+R' F2 L D' L B D' B' D2 L2 F2 R
+R' U' R' F R F' U R
+46.png
+false
+OLL
+Awkward Shapes
+29
+B L' B' U2 L U L U' L2 U2 L
+L' R U R' U' L2 R' F R F' L'
+B2 R' F R' F' R2 U2 L' B' L U2 B2
+R2 F2 L F L' F2 R2 F' U' F' U F
+y' r2 D' r U r' D r2 U' r' U' r
+29.png
+false
+OLL
+Awkward Shapes
+30
+B F D2 B' R U R' U' B D2 B' F'
+B U L U2 L' U L U2 L' U' B'
+F' R L' U' L U2 R' U' R' F2 R F'
+L U F U2 F' U F U2 F' U' L'
+F R' F R2 U' R' U' R U R' F2
+30.png
+false
+OLL
+Awkward Shapes
+41
+B' R2 B R' B' R2 F R B2 F' U2 B'
+F U2 F' L F2 L B L' F2 L2 B' L
+B L2 F D2 F L B2 R B L2 F2 L'
+L' B2 L B' L' B2 R B L2 R' U2 L'
+R U R' U R U2 R' F R U R' U' F'
+41.png
+false
+OLL
+Awkward Shapes
+42
+R' U' R F' R' U L' U L U' R F
+R B' U' B' U B U' R L' B2 R2 L
+F' U' F L' F' U B' U B U' F L
+L2 F' L' B L2 F U L U' L2 B' L'
+R' U' R U' R' U2 R F R U R' U' F'
+42.png
+false
+OLL
+All Corners Oriented
+28
+F B' R' B U2 F B' R2 F' R F' B
+D L' U L F' D' B L' D F D' B'
+B' U B U' B' F R B' R' B2 F'
+F R B U' B' R' U2 R U R' F'
+r U R' U' M U R U' R'
+28.png
+false
+OLL
+All Corners Oriented
+57
+B U' B' R' U R B L' B L B2
+F' U F R U' R' F' L F' L' F2
+F R U' R' U2 R B U B' R' F'
+F' B2 L' B' L F B' U' B U B'
+R U R' U' M’ U R U' r'
+57.png
+false

@@ -1,0 +1,36 @@
+2-Look PLL
+Corners
+Diag
+F R U' R' U' R U R' F' R U R' U' R' F R F'
+Diag.png
+false
+2-Look PLL
+Corners
+Headlights
+R U R' U' R' F R2 U' R' U' R U R' F'
+Headlights.png
+false
+2-Look PLL
+Edges
+H
+M2 U' M2 U2 M2 U' M2
+H.png
+false
+2-Look PLL
+Edges
+Ua
+R U' R U R U R U' R' U' R2
+Ua.png
+false
+2-Look PLL
+Edges
+Ub
+R2 U R U R' U' R' U' R' U R'
+Ub.png
+false
+2-Look PLL
+Edges
+Z
+y M' U' M2 U' M2 U' M' U2 M2
+Z.png
+false
