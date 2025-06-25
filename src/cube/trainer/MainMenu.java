@@ -51,7 +51,7 @@ public class MainMenu extends javax.swing.JFrame {
 
         lblTitle.setFont(new java.awt.Font("DengXian", 1, 80)); // NOI18N
         lblTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblTitle.setText("CFOP MASTER");
+        lblTitle.setText("CFOP TRAINER");
         lblTitle.setToolTipText("");
         lblTitle.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 

@@ -72,7 +72,7 @@
           <Font name="DengXian" size="80" style="1"/>
         </Property>
         <Property name="horizontalAlignment" type="int" value="0"/>
-        <Property name="text" type="java.lang.String" value="CFOP MASTER"/>
+        <Property name="text" type="java.lang.String" value="CFOP TRAINER"/>
         <Property name="toolTipText" type="java.lang.String" value=""/>
         <Property name="horizontalTextPosition" type="int" value="0"/>
       </Properties>
