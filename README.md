@@ -13,3 +13,15 @@ OLL (short for Orientation of the Last Layer) is the penultimate step in the CFO
 
 ### PLL
 PLL (short for Permutation of the Last Layer) is the final step in the CFOP method which involves solving the remaining last layer pieces. There are 21 algorithms in total, but a variation known as 2-Look PLL exists which splits it up into two steps. 2-Look PLL first uses one algorithm to solve the corners, then another to solve the edges, which significantly decreases the number of algorithms that are needed.
+
+## Usage
+### Learning Algorithms
+1. Select _Algorithms_ in the main menu
+2. Choose the alg set you would like to view. The available sets are listed below:
+   - OLL
+   - 2-Look OLL
+   - PLL
+   - 2-Look PLL
+3. Select or deselect the checkboxes to indecate whether the algorithms have been learned
+
+### Training Algorithms
