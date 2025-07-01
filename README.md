@@ -17,11 +17,18 @@ PLL (short for Permutation of the Last Layer) is the final step in the CFOP meth
 ## Usage
 ### Learning Algorithms
 1. Select _Algorithms_ in the main menu
-2. Choose the alg set you would like to view. The available sets are listed below:
+2. Choose one of the following alg sets to view:
    - OLL
    - 2-Look OLL
    - PLL
    - 2-Look PLL
-3. Select or deselect the checkboxes to indecate whether the algorithms have been learned
+3. Select or deselect the checkboxes to indicate whether the algorithms have been learned
 
 ### Training Algorithms
+1. Select _Alg Trainers_ in the main menu
+2. Choose one of the following alg trainers:
+   - OLL Trainer
+   - PLL Trainer
+3. Select the cases you would like to practice
+4. Click _Train_ to practice algs randomly, or _Recap_ to view each case once
+5. Follow the scramble given at the top of the screen, use the spacebar to start/stop the timer
