@@ -32,4 +32,3 @@ PLL (short for Permutation of the Last Layer) is the final step in the CFOP meth
 3. Select the cases you would like to practice
 4. Click _Train_ to practice algs randomly, or _Recap_ to view each case once
 5. Follow the scramble given at the top of the screen, use the spacebar to start/stop the timer
-6. If Recap mode is selected, click _Recap Again_ to view the previous case again
